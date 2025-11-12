@@ -454,12 +454,11 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Syeda Sara Afzaal**
 
 - 🐙 GitHub: [@sawraw404](https://github.com/sawraw404)
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📧 Email: [Your Email]
-- 🌐 Portfolio: [Your Website]
+- 💼 LinkedIn: https://www.linkedin.com/in/sara-afzaal-0b6690297/
+- 📧 Email: ssa2501ra@gmail.com
 
 ---
 
@@ -486,11 +485,6 @@ If you found this project helpful or interesting:
 
 ---
 
-## 📊 Project Stats
-
-![GitHub stars](https://img.shields.io/github/stars/sawraw404/SentimentAnalysis_Bitcoin_Tweets?style=social)
-![GitHub forks](https://img.shields.io/github/forks/sawraw404/SentimentAnalysis_Bitcoin_Tweets?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/sawraw404/SentimentAnalysis_Bitcoin_Tweets?style=social)
 
 **Project Timeline:**
 - 📅 Started: November 2025
